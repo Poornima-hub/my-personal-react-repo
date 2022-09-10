@@ -1,0 +1,24 @@
+.isPrime {
+    background-color: red;
+}
+.isEven {
+    background-color: green;
+}
+.isOdd {
+    background-color: orange;
+}
+li {
+    list-style: none;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 84px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 900px;
+    padding: 0;
+}

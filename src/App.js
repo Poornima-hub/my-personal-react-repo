@@ -1,8 +1,8 @@
 import React from 'react';
-import App4 from './Day-04/App4';
+import RechartsComponent from './Day-06/RechartsComponent';
 
 function App (){
-    return <App4 />
+    return <RechartsComponent />
 }
 
 
