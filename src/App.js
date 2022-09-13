@@ -1,9 +1,15 @@
 import React from 'react';
-import RechartsComponent from './Day-06/RechartsComponent';
+//import App8 from './Day-08/App8'
+// import RandomCountry from './Day-08/RandomCountry';
+import App9 from './Day-09/App9'
 
-function App (){
-    return <RechartsComponent />
-}
+const App = () => (
+    //<App8 />
+    // <RandomCountry />
+    <App9 />
+)
+    
+
 
 
 export default App;
